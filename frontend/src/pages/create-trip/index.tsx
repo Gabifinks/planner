@@ -1,7 +1,7 @@
 import { FormEvent, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import ConfirmTripModal from "./confirmTripModal";
-import InviteGuestsModal from "./InviteGuestsModal";
+import InviteGuestsModal from "./inviteGuestsModal";
 import DestinationAndDate from "./steps/destinationAndDateStep";
 import InviteGuestsStep from "./steps/inviteGuestsStep";
 import { DateRange } from "react-day-picker";
